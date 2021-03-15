@@ -36,6 +36,6 @@ fi
 done
 }
 
+repeat eth1
 repeat br0
 repeat eth0
-repeat eth1
